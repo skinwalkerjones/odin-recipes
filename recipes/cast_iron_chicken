@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cast Iron Chicken</title>
+</head>
+<body>
+    <h1>Cast Iron Chicken</h1>
+    <img src="chicken.jpeg">
+    <h3>Description</h3>
+    <p>This chicken is cooked to perfection. The method? It's cooked 2 ways. <em>gasp</em> First you pop this sucker on the old cast iron skillet for a good sear, 2 min per side. Then you toss 'er in the oven for some tender lovin as she gets nice and juicy and the fat drips off 'er. That's the beauty of the good 'ol cast iron skillet, my friends. It loves a good sauna. This chicken is certified <strong><em>Finger Licking Good.</em></strong></p>
+    <h4>Ingredients</h4>
+    <ul>
+        <li>Chicken breast</li>
+        <li><em>Spices</em>(I like paprika, a little cayenne, garlic powder, onion powder, and cumin, but go nuts) </li>
+        <li>Olive oil</li>
+        <li>Cast iron skillet</li>
+    </ul>
+    <ol>
+        <li>Get your oven ripping hot at 400 degrees</li>
+        <li>Season your chicken!!!</li>
+        <li>Turn on your stove to medium hot. Put skillet on stove to pre-heat. Put a little oil in the skillet.</li>
+        <li>Once the oil is smoking, throw down your chicken. Two minutes per side.</li>
+        <li>Once that's done, pop the whole thing, skillet, chicken, and all into the oven.</li>
+        <li>Cook that sucker until it's got an internal temp of 165 degrees (check after 10 minutes and then every 2 minutes if it's close)</li>
+        <li>Pull it out of the oven and remove the chicken from the skillet. Let it rest for 5-10 minutes</li>
+        <li>Cut into that sucker and scream</li>
+    </ol>
+</body>
+</html>
